@@ -6,6 +6,10 @@
 This is small simple game developed in Java for Android.
 
 
+##
+##
+##
+
 
 MIT License
 
